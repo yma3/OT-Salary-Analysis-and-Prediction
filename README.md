@@ -2,7 +2,7 @@
 Occupational salary data taken from a survey from otsalary.com. Data is cleaned/wrangled, analyzed, and used to make a predictor based on a regression model.
 The original dataset contains 2376 raw survey responses.
 
-Exploratory data analysis (EDA) showed mistakes in input e.g.
+Exploratory data analysis (EDA) showed inconsistencies in input e.g.
 1. Annual Salary > $300k, but only ~$40 per hour
 2. Annual salary < $20k, but similar pay per hour
 3. Inputting "74.0" possibly to represent 74,000 or 74k.
